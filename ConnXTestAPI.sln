@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnXTestAPI", "ConnXTestAPI\ConnXTestAPI.csproj", "{A08DCE75-8AE6-40D5-99C4-463B1CBB72BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnXTestAPI.Business", "ConnXTestAPI.Business\ConnXTestAPI.Business.csproj", "{A41B9719-B3CA-4F67-9896-BE854D06D5B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnXTestAPI.Models", "ConnXTestAPI.Models\ConnXTestAPI.Models.csproj", "{A31DF3B1-C021-4D8B-8936-EC2346D67275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnXTestAPITestProject", "ConnXTestAPITestProject\ConnXTestAPITestProject.csproj", "{D4CFF962-1B61-4ABE-A5C9-D06DAB916554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnXTestAPIWeb", "ConnXTestAPIWeb\ConnXTestAPIWeb.csproj", "{F63D15F1-BE5B-4A28-8A6D-E6631DA23979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08DCE75-8AE6-40D5-99C4-463B1CBB72BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08DCE75-8AE6-40D5-99C4-463B1CBB72BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08DCE75-8AE6-40D5-99C4-463B1CBB72BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08DCE75-8AE6-40D5-99C4-463B1CBB72BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41B9719-B3CA-4F67-9896-BE854D06D5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41B9719-B3CA-4F67-9896-BE854D06D5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41B9719-B3CA-4F67-9896-BE854D06D5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41B9719-B3CA-4F67-9896-BE854D06D5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31DF3B1-C021-4D8B-8936-EC2346D67275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31DF3B1-C021-4D8B-8936-EC2346D67275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31DF3B1-C021-4D8B-8936-EC2346D67275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31DF3B1-C021-4D8B-8936-EC2346D67275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CFF962-1B61-4ABE-A5C9-D06DAB916554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CFF962-1B61-4ABE-A5C9-D06DAB916554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CFF962-1B61-4ABE-A5C9-D06DAB916554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CFF962-1B61-4ABE-A5C9-D06DAB916554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F63D15F1-BE5B-4A28-8A6D-E6631DA23979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63D15F1-BE5B-4A28-8A6D-E6631DA23979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63D15F1-BE5B-4A28-8A6D-E6631DA23979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63D15F1-BE5B-4A28-8A6D-E6631DA23979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20CDBE48-CC34-4637-A986-CE8396E308DD}
+	EndGlobalSection
+EndGlobal
